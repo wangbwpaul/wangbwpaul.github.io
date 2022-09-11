@@ -15,7 +15,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-[English](https://www.tcd.ie/English/research/current-research-students.php) | [TrinityLRH](https://www.tcd.ie/trinitylongroomhub/research/fellows/2021-22grad-fellows/Bowen-Wang.php) | [IntermedialStudies](http://isis.digitaltextualities.ca/members/bowang/) | [INCH (https://inch.princeton.edu/participants/)
+
+[English](https://www.tcd.ie/English/research/current-research-students.php) | [TrinityLRH](https://www.tcd.ie/trinitylongroomhub/research/fellows/2021-22grad-fellows/Bowen-Wang.php) | [IntermedialStudies](http://isis.digitaltextualities.ca/members/bowang/) | [INCH](https://inch.princeton.edu/participants/)<br>
 
 Email: bowang@tcd.ie
 
