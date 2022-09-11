@@ -14,7 +14,7 @@ nav_order: 2
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
-	  <h2 class="year"></h2>
+	  <h2 class="year">{{y}}</h2>
 	  {% bibliography -f conferences -q @*[year={{y}}]* %}
 	{% endunless%}
 {% endfor %}
@@ -24,7 +24,7 @@ nav_order: 2
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
-	  <h2 class="year"></h2>
+	  <h2 class="year">{{y}}</h2>
 	  {% bibliography -f invitedtalks -q @*[year={{y}}]* %}
 	{% endunless%}
 {% endfor %}
