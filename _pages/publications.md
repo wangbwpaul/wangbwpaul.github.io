@@ -8,11 +8,11 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="Journal Articles">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f journal -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
