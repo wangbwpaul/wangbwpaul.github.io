@@ -12,7 +12,8 @@ nav_order: 2
 <h1>Conference Papers</h1>
 {% assign exclusions = "2019:2018" | split: ":" %}
 {%- for y in page.years %}
-	{% unless exclusions contains y %}
+	{% capture yeartext %}{{ y }}{% endcapture %}
+	{% unless exclusions contains yeartext %}
 	  <h2 class="year"></h2>
 	  {% bibliography -f conferences -q @*[year={{y}}]* %}
 	{% endunless%}
@@ -21,7 +22,8 @@ nav_order: 2
 <h1>Invited Talks</h1>
 {% assign exclusions = "2022:2019" | split: ":" %}
 {%- for y in page.years %}
-	{% unless exclusions contains y %}
+	{% capture yeartext %}{{ y }}{% endcapture %}
+	{% unless exclusions contains yeartext %}
 	  <h2 class="year"></h2>
 	  {% bibliography -f invitedtalks -q @*[year={{y}}]* %}
 	{% endunless%}
