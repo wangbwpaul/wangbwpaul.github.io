@@ -7,8 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-I have been a teaching assistant at the University of Sussex in various modules, both at undergraduate and post-graduate level. These include:
-- Natural Language Processing
-- Natural Language Engineering
-- Apllied/Advance Natural Language Processing
-- Machine Learning 
+I have been a Teaching Assistant at School of English, Trinity College Dublin in various undergraduate modules, and before coming here, I also worked as a lecturer at Study Abroad Training Center, Zhengzhou University. These include:
+- Modernisms: Making it New
+- Introduction to Modernism
+- US American Identities: Harlem Renaissance to the Present
+- English for Academic Purposes (EAP)
+- IELTS Prep
