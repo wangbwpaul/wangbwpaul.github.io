@@ -13,5 +13,5 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-	<p>The Poster for TCD Long Hub Presentation. You can find the link <a href="https://www.tcd.ie/trinitylongroomhub/inspiring-generations/">link</a> here!!!</p>
+	<p>The Poster for TCD Long Hub Presentation. You can find the <a href="https://www.tcd.ie/trinitylongroomhub/inspiring-generations/">link</a> here!!!</p>
 </div>
