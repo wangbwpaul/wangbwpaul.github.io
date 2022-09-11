@@ -14,7 +14,7 @@ nav_order: 1
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
-	  <h2 class="year"></h2>
+	  <h2 class="year">{{y}}</h2>
 	  {% bibliography -f papers -q @*[year={{y}}]* %}
 	{% endunless%}
 {% endfor %}
@@ -23,7 +23,7 @@ nav_order: 1
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
-	  <h2 class="year"></h2>
+	  <h2 class="year">{{y}}</h2>
 	  {% bibliography -f bookchapters -q @*[year={{y}}]* %}
 	{% endunless %}
 {% endfor %}
@@ -32,7 +32,7 @@ nav_order: 1
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
-	  <h2 class="year"></h2>
+	  <h2 class="year">{{y}}</h2>
 	  {% bibliography -f otherarticles -q @*[year={{y}}]* %}
 	{% endunless %}
 {% endfor %}
