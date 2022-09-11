@@ -10,20 +10,30 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 <h1>Journal Articles</h1>
+{% assign exclusions = "2020" | split: ":" %}
 {%- for y in page.years %}
-  <h2 class="year"></h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+	{% capture yeartext %}{{ y }}{% endcapture %}
+	{% unless exclusions contains yeartext %}
+	  <h2 class="year"></h2>
+	  {% bibliography -f papers -q @*[year={{y}}]* %}
+	{% endunless%}
 {% endfor %}
 <h1>Book Chapters</h1>
+{% assign exclusions = "2022:2020" | split: ":" %}
 {%- for y in page.years %}
-  <h2 class="year"></h2>
-  {% bibliography -f bookchapters -q @*[year={{y}}]* %}
+	{% capture yeartext %}{{ y }}{% endcapture %}
+	{% unless exclusions contains yeartext %}
+	  <h2 class="year"></h2>
+	  {% bibliography -f bookchapters -q @*[year={{y}}]* %}
+	{% endunless %}
 {% endfor %}
 <h1>Other Articles</h1>
+{% assign exclusions = "2021" | split: ":" %}
 {%- for y in page.years %}
-  <h2 class="year"></h2>
-  {% bibliography -f otherarticles -q @*[year={{y}}]* %}
+	{% capture yeartext %}{{ y }}{% endcapture %}
+	{% unless exclusions contains yeartext %}
+	  <h2 class="year"></h2>
+	  {% bibliography -f otherarticles -q @*[year={{y}}]* %}
+	{% endunless %}
 {% endfor %}
-
-
 </div>
