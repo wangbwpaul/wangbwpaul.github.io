@@ -26,7 +26,7 @@ My research field is mainly focused on intermedial modernism between literature 
 
 Interested in the intermedial collaboration between poetic and non-poetic forms, I organised and chaired a panel **“Intermedial Poetry and Poetics of Intermediality”** on 2022 ISIS conference. I am also contributing a book chapter on the in-betweenness of intermediality to _Palgrave Handbook of Intermediality_, and editing a special issue of _Journal of Comparative Literature and Aesthetics_ on **“Intermedial Poetries: Alternative Methods and Practices”** ([CFP](http://jcla.in/journal-of-comparative-literature-and-aesthetics/call-for-papers/)). This will gather a collection of papers about modern and contemporary poetries in relation to visuality, cinematic lyricism, postdramatic theatre, and digital fashion/video game, etc.
 
-**Research Interests:** Modernism; intermediality between literature and art; word (textual) and image (visual) studies; experimental poetry; the European and American avant-garde
+**Research Interests:** Anglo-American modernism; intermediality between literature and art; word (textual) and image (visual) studies; experimental poetry; the European avant-garde; twentieth-century aesthetic theory
 
 <!-- You could do it
  -->
