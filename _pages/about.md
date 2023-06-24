@@ -16,11 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[English](https://www.tcd.ie/English/research/current-research-students.php) \| [TrinityLRH](https://www.tcd.ie/trinitylongroomhub/research/fellows/2021-22grad-fellows/Bowen-Wang.php) \| [IntermedialStudies](http://isis.digitaltextualities.ca/members/bowang/) \| [INCH](https://inch.princeton.edu/participants/)
+[English](https://www.tcd.ie/English/research/current-research-students.php) \| [TrinityLRH](https://www.tcd.ie/trinitylongroomhub/research/fellows/2021-22grad-fellows/Bowen-Wang.php) \| [IntermedialStudies](http://isis.digitaltextualities.ca/members/bowang/) \| [OCLW](https://oclw.web.ox.ac.uk/people/bowen-wang)
 
 Email: bowang@tcd.ie
 
-I am currently a PhD student in English at **Trinity College Dublin** supervised by Prof. Philip Coleman. Before joining Trinity, I obtained my MSc in Literature and Modernity from the **University of Edinburgh** under the supervision of Prof. Randall Stevenson (2017-18). I received my BA in English Language and Literature from **Sun Yat-sen University** (2012-2016) with an exchange year in English/American Studies at the **University of Southern Denmark**. 
+I am a final-year PhD student in English at **Trinity College Dublin** supervised by Prof. Philip Coleman, and currently a visiting doctoral student at **Oxford Centre for Life-Writing** during Trinity 2023. Before joining Trinity, I obtained my MSc in Literature and Modernity from the **University of Edinburgh** under the supervision of Prof. Randall Stevenson (2017-18). I received my BA in English Language and Literature from **Sun Yat-sen University** (2012-2016) with an exchange year in English/American Studies at the **University of Southern Denmark**. 
 
 My research field is mainly focused on intermedial modernism between literature and visual art, especially poetry and painting. My PhD project is titled **_From_ Ut pictura poesis _to Intermediality: Mina Loy, E. E. Cummings, and Djuna Barnes as Modernist Painter-Poets_** (co-funded by TCD-CSC Joint Scholarship Programme). I have published several articles on Loy’s painterly abstraction, readymade word, and materialist poetics in her ekphrases and avant-garde artworks. Additionally, I presented two papers on Cummings’ visual experiments and Oriental aesthetics on 2021 ALA and 2022 MSA conferences.
 
