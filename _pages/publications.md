@@ -19,7 +19,7 @@ nav_order: 1
 	{% endunless%}
 {% endfor %}
 <h1>Book Chapters</h1>
-{% assign exclusions = "2022:2020" | split: ":" %}
+{% assign exclusions = "2024:2022:2020" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
@@ -28,7 +28,7 @@ nav_order: 1
 	{% endunless %}
 {% endfor %}
 <h1>Special Issues</h1>
-{% assign exclusions = "2022:2020" | split: ":" %}
+{% assign exclusions = "2023:2022:2021:2020" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
@@ -37,7 +37,7 @@ nav_order: 1
 	{% endunless %}
 {% endfor %}
 <h1>Other Articles</h1>
-{% assign exclusions = "2021" | split: ":" %}
+{% assign exclusions = "2024:2023:2021" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
