@@ -7,9 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-I have been a Teaching Assistant at School of English, Trinity College Dublin in various undergraduate modules, and before coming here, I also worked as a lecturer at Study Abroad Training Center, Zhengzhou University. These include:
-- Introduction to Modernism
-- Modernisms: Making it New
-- US American Identities: Harlem Renaissance to the Present
-- English for Academic Purposes (EAP)
-- IELTS Prep
+Before teaching in the School of English, Shanghai Jiao Tong University, I have been a Teaching Assistant in the School of English, Trinity College Dublin for undergraduate modules, also giving guest lectures at Dublin City University’s School of Applied Language & Intercultural Studies, [University of York’s Centre for Modern Studies](https://www.york.ac.uk/modernstudies/events/2019-20/summer/linguistic-landscape/), and Zhengzhou University’s Study Abroad Training Centre. The modules include:
+-	Transmedia Studies of Literature (SJTU-Senior)
+-	Comparative Literature Studies Project (SJTU- Senior)
+-	Comparative Studies of World Literary Currents (SJTU-Junior)
+-	Spoken English Intermediate (SJTU-Optional)
+-	College English (SJTU-Freshmen)
+-	Introduction to Modernism (TCD-Senior Fresh)
+-	Modernisms: Making it New (TCD-Senior Fresh)
+-	US American Identities: Harlem Renaissance to the Present (TCD-Senior Fresh)
+-	English for Academic Purposes (ZZU)
+-	IELTS Prep (ZZU)
