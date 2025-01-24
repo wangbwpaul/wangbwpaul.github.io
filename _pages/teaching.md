@@ -11,11 +11,11 @@ Before teaching in the School of Foreign Languages, Shanghai Jiao Tong Universit
 
 These modules include:
 -   20th-Century Anglo-American Novels (SJTU-Postgraduate)
--	Transmedia Studies of Literature (SJTU-Senior)
--	Comparative Literature Studies Project (SJTU- Senior)
--	Comparative Studies of World Literary Currents (SJTU-Junior)
--	Spoken English Intermediate (SJTU-Optional)
--	College English (SJTU-Freshmen)
+-	Transmedia Studies of Literature (SJTU-Undergraduate)
+-	Comparative Literature Studies Project (SJTU-Undergraduate)
+-	Comparative Studies of World Literary Currents (SJTU-Undergraduate)
+-	Spoken English Intermediate (SJTU-Undergraduate)
+-	College English (SJTU-Undergraduate)
 -	Modernisms: Making it New (TCD-Senior Fresh)
 -	US American Identities: Harlem Renaissance to the Present (TCD-Senior Fresh)
 -	English for Academic Purposes (ZZU)

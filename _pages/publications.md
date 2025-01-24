@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md --> 
 <div class="publications">
 <h1>Journal Articles</h1>
-{% assign exclusions = "2023:2020" | split: ":" %}
+{% assign exclusions = "2020" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
