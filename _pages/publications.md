@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [2024, 2023, 2022, 2021, 2020]
+years: [2025, 2024, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 1
 ---
@@ -37,7 +37,7 @@ nav_order: 1
 	{% endunless %}
 {% endfor %}
 <h1>Other Articles</h1>
-{% assign exclusions = "2024:2023:2021" | split: ":" %} 
+{% assign exclusions = "2025:2024:2023:2021" | split: ":" %} 
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}
