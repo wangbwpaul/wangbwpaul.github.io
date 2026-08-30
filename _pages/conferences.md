@@ -19,8 +19,8 @@ nav_order: 2
 	{% endunless%}
 {% endfor %}
 
-<h1>Invited Talks</h1>
-{% assign exclusions = "2026:2025:2024:2023:2022:2019" | split: ":" %}
+<h1>Symposiums & Invited Talk</h1>
+{% assign exclusions = "2024:2019" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
 	{% unless exclusions contains yeartext %}

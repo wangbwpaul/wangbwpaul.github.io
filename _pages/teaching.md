@@ -12,6 +12,7 @@ Before teaching in the School of Foreign Languages, Shanghai Jiao Tong Universit
 **Postgraduate:**
 
 - Intermedial Studies of Literature (FL6202)
+- Introduction to Literary Theory (FL6203)
 - 20th-Century British and American Fictions (FL8209)
 - Academic Writing, Norms, and Ethics (Literary Studies) (GE6001)
 
