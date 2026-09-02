@@ -41,6 +41,13 @@ nav_order: 2
     text-decoration: none;
   }
   @media (max-width: 1400px) {
+    .publications-toc-sidebar {
+      left: 8px;
+      width: 130px;
+      font-size: 0.75rem;
+    }
+  }
+  @media (max-width: 1150px) {
     .publications-toc-sidebar { display: none; }
   }
 </style>
