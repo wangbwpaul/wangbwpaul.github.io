@@ -4,6 +4,16 @@
 
 // Typography
 
+body,
+p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong, a,
+.navbar, .post-title, .post-description, blockquote, table, button, input, textarea, select {
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+}
+
+body {
+  font-weight: 400;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
@@ -513,7 +523,7 @@ footer.sticky-bottom {
         }
       }
       .title {
-        font-weight: bolder;
+        font-weight: 600;
       }
       .author {
         a {

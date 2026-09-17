@@ -68,8 +68,6 @@ nav_order: 1
 <h2 class="year">Forthcoming</h2>
 {% bibliography -f monographs %}
 <h1 id="special-issues">Special Issues</h1>
-<h2 class="year">Forthcoming</h2>
-{% bibliography -f specialissues -q @*[year=forthcoming]* %}
 {% assign exclusions = "2025:2023:2022:2021:2020" | split: ":" %}
 {%- for y in page.years %}
 	{% capture yeartext %}{{ y }}{% endcapture %}
